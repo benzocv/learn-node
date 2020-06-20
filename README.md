@@ -1,5 +1,5 @@
 # Node learing 
 
-```HTML
-<title>Codes are just for learnign purpose    </title>
+```JS
+console.log(Codes are just for learnign purpose);
 ```  
