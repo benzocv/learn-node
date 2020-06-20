@@ -21,5 +21,3 @@ const server = http.createServer((req, res) => {
   res.end();
 });
 server.listen(3000);
-
-//this is comment just to check if git is working or not
