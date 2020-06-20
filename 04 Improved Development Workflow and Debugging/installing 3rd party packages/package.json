@@ -1,0 +1,15 @@
+{
+  "name": "npm_install_software",
+  "version": "1.0.1",
+  "description": "I'm gonna install 3rd pary software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anzar",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}

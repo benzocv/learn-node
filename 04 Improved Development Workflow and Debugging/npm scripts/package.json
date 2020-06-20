@@ -1,12 +1,12 @@
 {
-  "name": "npm_instruction",
-  "version": "1.0.0",
-  "description": "Npm",
+  "name": "npm_script",
+  "version": "1.0.2",
+  "description": "This is my first npm script",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "Anzarakhan",
+  "author": "anzar",
   "license": "ISC"
 }
