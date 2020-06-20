@@ -5,11 +5,11 @@ console.log("Codes are just for learnign purpose");
 ```  
  
 
-> Section to be cover
+> Sections to be cover
 
 - [x] 01 Introduction
 - [x] 02 Optional JavaScript - A Quick Refresher
-- [ ]  03 Understanding the Basics
+- [x] 03 Understanding the Basics
 - [ ]  04 Improved Development Workflow and Debugging
 - [ ]  05 Working with Express.js
 - [ ]  06 Working with Dynamic Content  Adding Templating Engines
