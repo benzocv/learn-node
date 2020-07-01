@@ -12,8 +12,8 @@ console.log("Codes are just for learnign purpose");
 - [x] 04 Improved Development Workflow and Debugging (21/06/2020)
 - [x] 05 Working with Express.js(23/06/2020)
 - [x] 06 Working with Dynamic Content Adding Templating Engines(30/06/2020)
-- [ ] 07 The Model View Controller (MVC)
-- [ ] 08 Optional Enhancing the App
+- [x] 07 The Model View Controller (MVC) (01/07/2020)
+- [x] 08 Optional Enhancing the App (01/07/2020)
 - [ ] 09 Dynamic Routes Advanced Models
 - [ ] 10 SQL Introduction
 - [ ] 11 Understanding Sequelize
